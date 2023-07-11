@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PFReactAlexBeltramella/static/css/main.36b11bcb.css",
+    "main.js": "/PFReactAlexBeltramella/static/js/main.5eb8b6aa.js",
+    "static/media/img.jpg": "/PFReactAlexBeltramella/static/media/img.f9916c18d9d9ad5f628b.jpg",
+    "static/media/logo.png": "/PFReactAlexBeltramella/static/media/logo.ef45137664ac32a79412.png",
+    "static/media/carrito.svg": "/PFReactAlexBeltramella/static/media/carrito.1c77695ca71fb30964dc47d43168a7e1.svg",
+    "index.html": "/PFReactAlexBeltramella/index.html",
+    "main.36b11bcb.css.map": "/PFReactAlexBeltramella/static/css/main.36b11bcb.css.map",
+    "main.5eb8b6aa.js.map": "/PFReactAlexBeltramella/static/js/main.5eb8b6aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36b11bcb.css",
+    "static/js/main.5eb8b6aa.js"
+  ]
+}
