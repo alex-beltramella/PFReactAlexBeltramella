@@ -1,0 +1,14 @@
+.card {
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+.card_item {
+    margin: 10px;
+}
+
+.item_img {
+    width: 300px;
+    padding: 2px;
+    border-radius: 10px;
+}
